@@ -1,4 +1,4 @@
-# FastAPI Sign Up API
+# User Registration API
 
 This is a simple FastAPI application that provides endpoints for user sign-up. It includes a Docker setup for easy deployment.
 
